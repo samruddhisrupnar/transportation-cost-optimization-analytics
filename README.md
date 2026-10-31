@@ -31,6 +31,10 @@ This repository contains the Business Analysis and Data Analytics project conduc
 * Synthesized platform analytics into strategic, data-driven recommendations.
 * Presented findings using exported reports and dashboard screenshots to facilitate informed executive decision-making.
 
+  ## ServiceNow Platform Configurations
+* *Sairaja Logistics Update Set.xml*
+  * This is the native ServiceNow Update Set containing all custom report definitions, dashboard layouts, layout configurations, and performance indicators built for this project. It can be directly imported into any ServiceNow instance to reproduce this analytics environment.
+
 ## 📂 Repository Structure
 * `/documentation` : Contains project documentations, requirements, or data dictionaries.
 * `/dashboards` : High-resolution screenshots of the finalized ServiceNow dashboards and reports.
